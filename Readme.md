@@ -15,7 +15,7 @@
 ### Connect with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1655562292~hmac=89a7c5128834ca26f54f1472f4d87a0e" />][instagram]
 
 
 <br />
