@@ -1,5 +1,5 @@
 # Hi there, I'm Vinay 👋 
-<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" >
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" | width=100)>
 
 ## I'm a Electronics Engineering Student and a passionate developer 
 
