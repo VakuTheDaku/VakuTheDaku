@@ -15,7 +15,7 @@
 ### Connect with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1655562292~hmac=89a7c5128834ca26f54f1472f4d87a0e" />][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://pixabay.com/get/g1bdf2de74ae43c4f7ba49b3c01d49c791434a79a25c0fcc6d5b7ba212c13d2487aa020554018eb9cab13ab81ef625991ce1f5fcd0b3f2813633ac6eea426c7fa83d407da9f087bb65253735e1f3d2f10_1280.png" />][instagram]
 
 
 <br />
