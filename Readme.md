@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!;I'm%20Vinay)](https://git.io/typing-svg)
 
-### I'm an Electronics Engineering Student and a passionate developer 👨‍💻
-
-- 👨‍💻 I’m doing my B.Tech from TKM College of Engineering, Kollam.
+### Who am I ?
+- 👨‍💻 I'm an Electronics Engineering Student and a passionate developer 
+- 👨‍🎓 I’m doing my B.Tech from TKM College of Engineering, Kollam.
 - ⚡ Fun fact: Apart from coding 😁, I also love chess ♟, singing 🎤 and badminton 🏸.
-
----
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=VakuTheDaku&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
