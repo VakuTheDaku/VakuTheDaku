@@ -1,11 +1,8 @@
-# Hi there, I'm Vinay 👋 
-<img align="center" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey;I'm%20Vinay)](https://git.io/typing-svg)
 
-## I'm an Electronics Engineering Student and a passionate developer 
+### I'm an Electronics Engineering Student and a passionate developer 
 
 - 👨‍💻 I’m doing my B.Tech from TKM College of Engineering, Kollam.
-- 📚 I love Flutter, React, Node, Django.
-- 💪🏼 Python and Javascript 💕.
 - ⚡ Fun fact: Apart from coding 😁, I also love chess ♟, singing 🎤 and badminton 🏸.
 
 ---
@@ -49,26 +46,7 @@
 
 ---
 
-<br/>
 
-
-
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VakuTheDaku&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VakuTheDaku&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
-<br />
-
----
 
 
 [instagram]: https://www.instagram.com/___v_a_k___/
