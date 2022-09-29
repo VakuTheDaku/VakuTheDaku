@@ -5,8 +5,6 @@
 - 👨‍🎓 I’m doing my B.Tech from TKM College of Engineering, Kollam.
 - ⚡ Fun fact: Apart from coding 😁, I also love chess ♟, singing 🎤 and badminton 🏸.
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=VakuTheDaku&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Connect with me 📝
 
 - [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
@@ -15,7 +13,6 @@
 
 - Web2 --> Web3
 - [Portfolio][Portfolio]
-
 
 [instagram]: https://www.instagram.com/___v_a_k___/
 [linkedin]: https://www.linkedin.com/in/vinayarunkumar-kp-517a12205
