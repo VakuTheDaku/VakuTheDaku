@@ -15,7 +15,7 @@
 - Developer @ [Doge Capital][thedogecapital]
 
 [instagram]: https://www.instagram.com/___v_a_k___/
-[linkedin]: https://www.linkedin.com/in/vinayarunkumar-kp-517a12205
+[linkedin]: https://www.linkedin.com/in/vinay-arun-kumar
 [Spotify]: https://open.spotify.com/track/2dqqDKp2LRm1MsyqxWeRIO?si=754036734852420e
 [Portfolio]: https://vinay-portfolio-one.vercel.app/
 [thedogecapital]: https://thedogecapital.com/
