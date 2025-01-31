@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!;I'm%20Vinay)](https://git.io/typing-svg)
 
 ### Who am I ?
-- 👨‍💻 Electronics and Communication Engineering Student
+- 👨‍💻 Software Development Engineer
 - 🎈 Full Stack Web Development | Blockchain 
 - 👨‍🎓 TKM College of Engineering, Kollam.
 - ⚡ loves coding, chess ♟, singing 🎤, sketching ✏️ and badminton 🏸.
