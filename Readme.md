@@ -14,7 +14,7 @@
 
 - ex-Developer @ [Doge Capital][thedogecapital]
 
-[Linkedin]https://www.linkedin.com/in/vinay-arun-kumar
-[Portfolio]https://vinayarunkumar.vercel.app
+[Linkedin](https://www.linkedin.com/in/vinay-arun-kumar)
+[Portfolio](https://vinayarunkumar.vercel.app)
 [thedogecapital]: https://thedogecapital.com/
   
