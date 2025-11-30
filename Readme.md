@@ -14,9 +14,7 @@
 
 - ex-Developer @ [Doge Capital][thedogecapital]
 
-[instagram]: https://www.instagram.com/___v_a_k___/
-[linkedin]: https://www.linkedin.com/in/vinay-arun-kumar
-[Spotify]: https://open.spotify.com/user/31bs5mljbugvwx5z4qrtj3vga5ha?si=9d1569c44d044d68
-[Portfolio]: https://vinayarunkumar.vercel.app
+[Linkedin]https://www.linkedin.com/in/vinay-arun-kumar
+[Portfolio]https://vinayarunkumar.vercel.app
 [thedogecapital]: https://thedogecapital.com/
   
