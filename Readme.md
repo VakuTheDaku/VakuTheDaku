@@ -16,5 +16,7 @@
 
 [Linkedin](https://www.linkedin.com/in/vinay-arun-kumar)
 [Portfolio](https://vinayarunkumar.vercel.app)
+
+
 [thedogecapital]: https://thedogecapital.com/
   
