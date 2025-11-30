@@ -12,11 +12,11 @@
 
 ### Currently working as 👨‍🏭
 
-- Developer @ [Doge Capital][thedogecapital]
+- ex-Developer @ [Doge Capital][thedogecapital]
 
 [instagram]: https://www.instagram.com/___v_a_k___/
 [linkedin]: https://www.linkedin.com/in/vinay-arun-kumar
-[Spotify]: https://open.spotify.com/track/2dqqDKp2LRm1MsyqxWeRIO?si=754036734852420e
-[Portfolio]: https://vinay-portfolio-one.vercel.app/
+[Spotify]: https://open.spotify.com/user/31bs5mljbugvwx5z4qrtj3vga5ha?si=9d1569c44d044d68
+[Portfolio]: https://vinayarunkumar.vercel.app
 [thedogecapital]: https://thedogecapital.com/
   
